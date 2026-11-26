@@ -1,4 +1,6 @@
-# Análise da Matriz Energética Brasileira com Dados da ONS
+# Brazilian Energy Matrix — Data Science & Machine Learning
+
+> Academic analysis · Public ONS data, Python, Pandas and scikit-learn.
 
 ## Visão Geral do Projeto
 
